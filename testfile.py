@@ -1,1 +1,1 @@
-My name is Tanaya.
+print("My name is Tanaya.")
